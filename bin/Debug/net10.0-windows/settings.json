@@ -1,0 +1,24 @@
+{
+  "Url": "https://www.roblox.com/games/15532962292/Sols-RNG?privateServerLinkCode=02011086814305865360214021579227",
+  "ClickArea": {
+    "Location": {
+      "IsEmpty": false,
+      "X": 69,
+      "Y": 1367
+    },
+    "Size": {
+      "IsEmpty": false,
+      "Width": 567,
+      "Height": 109
+    },
+    "X": 69,
+    "Y": 1367,
+    "Width": 567,
+    "Height": 109,
+    "Left": 69,
+    "Top": 1367,
+    "Right": 636,
+    "Bottom": 1476,
+    "IsEmpty": false
+  }
+}

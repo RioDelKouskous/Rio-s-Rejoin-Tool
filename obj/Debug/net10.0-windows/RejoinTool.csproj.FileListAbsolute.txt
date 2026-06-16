@@ -1,0 +1,17 @@
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\icon.ico
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\icon.png
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\RejoinTool.exe
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\RejoinTool.deps.json
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\RejoinTool.runtimeconfig.json
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\RejoinTool.dll
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\RejoinTool.pdb
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.AssemblyInfoInputs.cache
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.AssemblyInfo.cs
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.dll
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\refint\RejoinTool.dll
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.pdb
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\RejoinTool.genruntimeconfig.cache
+C:\Users\famil\Desktop\Rio's Rejoin Tool\obj\Debug\net10.0-windows\ref\RejoinTool.dll
+C:\Users\famil\Desktop\Rio's Rejoin Tool\bin\Debug\net10.0-windows\Background.jpg
